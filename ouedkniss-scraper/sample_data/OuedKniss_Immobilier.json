@@ -1,0 +1,287 @@
+[
+  {
+    "title": "Location Appartement Niveau de villa F3 Alger Douera",
+    "price": 400000000,
+    "city": "Douera",
+    "store": "Agence Immobili\u00e8re  Danil",
+    "createdAt": "2026-06-18 09:15",
+    "area(m\u00b2)": "N/A",
+    "rooms": "N/A"
+  },
+  {
+    "title": "Location Appartement Duplex F4 Alger Dely brahim",
+    "price": 150000,
+    "city": "Dely brahim",
+    "store": "AGENCE IMMOBILIERE HFY ",
+    "createdAt": "2026-06-10 10:12",
+    "area(m\u00b2)": "N/A",
+    "rooms": "N/A"
+  },
+  {
+    "title": "Location Villa Alger Dely brahim",
+    "price": 400000,
+    "city": "Dely brahim",
+    "store": "AGENCE IMMOBILIERE HFY ",
+    "createdAt": "2025-10-18 09:42",
+    "area(m\u00b2)": 380.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement Duplex F5 Alger Dely brahim",
+    "price": 74000000,
+    "city": "Dely brahim",
+    "store": "AGENCE IMMOBILIERE HFY ",
+    "createdAt": "2026-06-09 08:38",
+    "area(m\u00b2)": 190.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Villa Alger Dely brahim",
+    "price": 155000000,
+    "city": "Dely brahim",
+    "store": "AGENCE IMMOBILIERE HFY ",
+    "createdAt": "2026-04-30 08:57",
+    "area(m\u00b2)": 365.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Location Appartement F4 Alger Ouled fayet",
+    "price": 90000,
+    "city": "Ouled fayet",
+    "store": "N/A",
+    "createdAt": "2026-06-07 20:30",
+    "area(m\u00b2)": "N/A",
+    "rooms": "N/A"
+  },
+  {
+    "title": "Location Appartement F4 Alger Ouled fayet",
+    "price": 90000,
+    "city": "Ouled fayet",
+    "store": "N/A",
+    "createdAt": "2026-06-08 08:53",
+    "area(m\u00b2)": "N/A",
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F4 Alger Dely brahim",
+    "price": 35000000,
+    "city": "Dely brahim",
+    "store": "AGENCE IMMOBILIERE HFY ",
+    "createdAt": "2026-06-10 10:08",
+    "area(m\u00b2)": 135.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F4 Alger Dely brahim",
+    "price": 38000000,
+    "city": "Dely brahim",
+    "store": "AGENCE IMMOBILIERE HFY ",
+    "createdAt": "2025-09-27 10:01",
+    "area(m\u00b2)": 120.0,
+    "rooms": [
+      4
+    ]
+  },
+  {
+    "title": "Vente Villa Alger Hydra",
+    "price": 190000000,
+    "city": "Hydra",
+    "store": "AGENCE IMMOBILIERE HFY ",
+    "createdAt": "2025-01-23 10:36",
+    "area(m\u00b2)": 399.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F4 Alger Dely brahim",
+    "price": "N/A",
+    "city": "Dely brahim",
+    "store": "Residence Aghiles - Aghiles Promotion  / Sara ",
+    "createdAt": "2025-10-13 10:21",
+    "area(m\u00b2)": 140.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Villa Oran Oran",
+    "price": 90000000,
+    "city": "Oran",
+    "store": "Elche immobilier ",
+    "createdAt": "2026-06-14 11:51",
+    "area(m\u00b2)": 800.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F5 Boumerd\u00e8s Boumerdes",
+    "price": 34320000,
+    "city": "Boumerdes",
+    "store": "Promotion immobili\u00e8re aissat",
+    "createdAt": "2026-03-29 13:26",
+    "area(m\u00b2)": 156.0,
+    "rooms": [
+      5
+    ]
+  },
+  {
+    "title": "Vente Appartement F3 F5 Tipaza Tipaza",
+    "price": "N/A",
+    "city": "Tipaza",
+    "store": "DAR EL KHIR",
+    "createdAt": "2026-04-13 14:29",
+    "area(m\u00b2)": 119.0,
+    "rooms": [
+      3,
+      5
+    ]
+  },
+  {
+    "title": "Vente Appartement F3 Alger El harrach",
+    "price": "N/A",
+    "city": "El harrach",
+    "store": "Lempreinte promotion l'empreinte",
+    "createdAt": "2026-04-26 08:01",
+    "area(m\u00b2)": 75.0,
+    "rooms": [
+      3
+    ]
+  },
+  {
+    "title": "Vente Appartement F4 T\u00e9bessa Tebessa",
+    "price": 110000000000000,
+    "city": "Tebessa",
+    "store": "N/A",
+    "createdAt": "2026-06-21 12:51",
+    "area(m\u00b2)": 87.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Location Appartement F3 Alger Ouled fayet",
+    "price": 90000,
+    "city": "Ouled fayet",
+    "store": "N/A",
+    "createdAt": "2026-06-17 08:41",
+    "area(m\u00b2)": "N/A",
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F3 Alger El harrach",
+    "price": "N/A",
+    "city": "El harrach",
+    "store": "Diamond immobilier",
+    "createdAt": "2026-03-24 18:18",
+    "area(m\u00b2)": 86.25,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F3 Alger Bordj el bahri",
+    "price": "N/A",
+    "city": "Bordj el bahri",
+    "store": "Lempreinte promotion l'empreinte",
+    "createdAt": "2026-04-25 14:17",
+    "area(m\u00b2)": 90.0,
+    "rooms": [
+      3
+    ]
+  },
+  {
+    "title": "Vente Appartement F3 Alger Cheraga",
+    "price": 23800000,
+    "city": "Cheraga",
+    "store": "Deux A hamid pro",
+    "createdAt": "2026-06-08 13:26",
+    "area(m\u00b2)": 65.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F4 Alger Ain taya",
+    "price": "N/A",
+    "city": "Ain taya",
+    "store": "Deux A hamid pro",
+    "createdAt": "2026-06-08 13:19",
+    "area(m\u00b2)": 184.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F3 Alger Ain benian",
+    "price": 290000,
+    "city": "Ain benian",
+    "store": "ClockeyLux Promotion immobili\u00e8re",
+    "createdAt": "2026-01-08 10:23",
+    "area(m\u00b2)": 101.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F4 Alger Draria",
+    "price": "N/A",
+    "city": "Draria",
+    "store": "Aymen promotion | KARIM",
+    "createdAt": "2026-01-20 15:27",
+    "area(m\u00b2)": 142.0,
+    "rooms": [
+      4
+    ]
+  },
+  {
+    "title": "Vente Appartement F5 Alger Cheraga",
+    "price": "N/A",
+    "city": "Cheraga",
+    "store": "R\u00e9sidence Aghiles / Promotion Aghiles",
+    "createdAt": "2026-04-19 11:45",
+    "area(m\u00b2)": 154.0,
+    "rooms": [
+      5
+    ]
+  },
+  {
+    "title": "Vente Appartement F3 Alger Bordj el bahri",
+    "price": "N/A",
+    "city": "Bordj el bahri",
+    "store": "PLAZA PRO ",
+    "createdAt": "2025-10-31 14:53",
+    "area(m\u00b2)": 78.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Location Appartement F4 Alger Ouled fayet",
+    "price": 90000,
+    "city": "Ouled fayet",
+    "store": "N/A",
+    "createdAt": "2026-06-18 12:59",
+    "area(m\u00b2)": "N/A",
+    "rooms": "N/A"
+  },
+  {
+    "title": "Location Local Alger Bab ezzouar",
+    "price": 85000,
+    "city": "Bab ezzouar",
+    "store": "N/A",
+    "createdAt": "2026-06-21 12:50",
+    "area(m\u00b2)": 30.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement F3 Oran Oran",
+    "price": "N/A",
+    "city": "Oran",
+    "store": "DCPROM",
+    "createdAt": "2025-11-11 15:05",
+    "area(m\u00b2)": "N/A",
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Villa Oran Bir el djir",
+    "price": 70000000,
+    "city": "Bir el djir",
+    "store": "Fahd Immobilier",
+    "createdAt": "2025-12-22 11:39",
+    "area(m\u00b2)": 264.0,
+    "rooms": "N/A"
+  },
+  {
+    "title": "Vente Appartement Duplex F4 Alger Dely brahim",
+    "price": 58800000,
+    "city": "Dely brahim",
+    "store": "MP PROMOTION ",
+    "createdAt": "2026-05-23 13:36",
+    "area(m\u00b2)": 140.0,
+    "rooms": "N/A"
+  }
+]
