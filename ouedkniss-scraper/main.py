@@ -1,5 +1,5 @@
 #imports:
-import requests, json, time, csv, re, unicodedata
+import requests, json, time, csv, os
 from datetime import datetime
 from charset_normalizer import from_bytes
 
@@ -163,11 +163,15 @@ def save_csv(data, filename = "OuedKniss_Immobilier"):
 
 #menu:
 
+def clear():
+    os.system("cls" if os.name == "nt" else "clear")
+
 def menu():
     data = []
 
     while True:
-        print("\n===== OuedKniss Real Estate Scraper =====")
+        clear()
+        print("===== OuedKniss Real Estate Scraper =====")
         print("1. Scrape Data")
         print("2. Save as JSON")
         print("3. Save as CSV")
@@ -177,39 +181,46 @@ def menu():
         choice = input("Choose an option: ").strip()
 
         if choice == "1":
+            clear()
             pages = int(input("How many pages to scrape? "))
             data = scraper(pages)
-            print(f"{len(data)} estates scraped successfully.")
+            input(f"\n{len(data)} estates scraped successfully. Press Enter to continue...")
 
         elif choice == "2":
+            clear()
             if data:
                 filename = input("Enter filename: ").strip()
                 save_json(data, filename)
-                print("Saved successfully.")
+                input("Saved successfully. Press Enter to continue...")
             else:
-                print("No data available.")
+                input("No data available. Press Enter to continue...")
 
         elif choice == "3":
+            clear()
             if data:
                 filename = input("Enter filename: ").strip()
                 save_csv(data, filename)
-                print("Saved successfully.")
+                input("Saved successfully. Press Enter to continue...")
             else:
-                print("No data available.")
+                input("No data available. Press Enter to continue...")
 
         elif choice == "4":
+            clear()
             if data:
                 for est in data[:5]:
                     print(est)
             else:
                 print("No data available.")
+            input("\nPress Enter to continue...")
 
         elif choice == "5":
+            clear()
             print("Exiting...")
             break
 
         else:
-            print("Invalid choice.")
+            input("Invalid choice. Press Enter to continue...")
+
 
 if __name__ == "__main__":
     menu()
