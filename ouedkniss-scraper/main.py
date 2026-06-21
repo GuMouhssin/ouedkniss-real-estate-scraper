@@ -68,7 +68,7 @@ def fix_text(txt):
     return txt.replace("Ã©", "é").replace("Ã¨", "è")
 
 
-#functions:
+#scraping_functions:
 def fetch_page(page):
     payload = {
         "operationName": "MyQuery",
@@ -161,7 +161,55 @@ def save_csv(data, filename = "OuedKniss_Immobilier"):
         writer.writeheader()
         writer.writerows(data)
 
+#menu:
+
+def menu():
+    data = []
+
+    while True:
+        print("\n===== OuedKniss Real Estate Scraper =====")
+        print("1. Scrape Data")
+        print("2. Save as JSON")
+        print("3. Save as CSV")
+        print("4. Show Sample")
+        print("5. Exit")
+
+        choice = input("Choose an option: ").strip()
+
+        if choice == "1":
+            pages = int(input("How many pages to scrape? "))
+            data = scraper(pages)
+            print(f"{len(data)} estates scraped successfully.")
+
+        elif choice == "2":
+            if data:
+                filename = input("Enter filename: ").strip()
+                save_json(data, filename)
+                print("Saved successfully.")
+            else:
+                print("No data available.")
+
+        elif choice == "3":
+            if data:
+                filename = input("Enter filename: ").strip()
+                save_csv(data, filename)
+                print("Saved successfully.")
+            else:
+                print("No data available.")
+
+        elif choice == "4":
+            if data:
+                for est in data[:5]:
+                    print(est)
+            else:
+                print("No data available.")
+
+        elif choice == "5":
+            print("Exiting...")
+            break
+
+        else:
+            print("Invalid choice.")
+
 if __name__ == "__main__":
-    data = scraper(50) #select how many pages you want to scrape
-    save_csv(data)
-    save_json(data)
+    menu()
